@@ -36,3 +36,5 @@ This project analyzes retail business sales performance using Power BI to identi
 
 ## Project Outcome
 Built an interactive business dashboard that enables faster decision-making through KPI monitoring and performance analysis.
+## Author
+Samuel Godson
